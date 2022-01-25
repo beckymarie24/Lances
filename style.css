@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+
+h1{
+    color: #FEC724;
+    background-color: #fff;
+    padding: 10px;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2{
+    color:blue;
+}
+
+body{
+    font-size: 20px;
+}
+
+.smaller-image{
+    width: 300px;
+}
+
+.container{
+    max-width: 1100px;
+    margin: 0 auto;
+    overflow: auto;
+    padding: 0 40px;
+}
+
+img{
+    width: 100%;
+}
+
+/* Navbar */
+
+.navbar{
+    background-color: #FEC724;
+}
+
+.navbar ul{
+    font-size: 25px;
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+}
+
+.navbar a{
+    margin: 0 5px;
+    color: #fff;
+    padding: 10px;
+}
+
+.navbar a:hover{
+    border-bottom: 2px #fff solid;
+}
+
+.navbar .flex{
+    justify-content: space-between;
+}
+
+/* About */
+
+.about p{
+    font-size: 25px;
+}
+
+/* Health */
+
+.health ul{
+    font-size: 25px;
+}
+
+.health h2{
+    font-size: 35px;
+}
+
+.health p{
+    font-size: 28px;
+}
+
+
+
+
+    
+    
+
+
+
